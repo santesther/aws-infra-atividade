@@ -78,4 +78,4 @@ O nome do banco inicial não foi necessário pois minha aplicação utiliza Ruby
 
 Após a criação, anotei o endpoint do banco de dados gerado para conexão futura.
 
-<b>Na minha pasta Assets no repositório tenho todas as imagens e vídeos pedidos na atividade.</b>
+<b>No repositório tenho todas as imagens e vídeos pedidos na atividade.</b>
