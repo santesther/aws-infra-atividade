@@ -1,6 +1,9 @@
 # aws-infra-atividade
 Configuração de Infraestrutura AWS
 
+<b>Link para o vídeo em que realizo Acesso à instância EC2 via SSH.</b>
+[https://youtu.be/GKhZ1XsR-V4](https://www.youtube.com/watch?v=GKhZ1XsR-V4)
+
 Este documento descreve os passos que realizei para configurar a infraestrutura na AWS, incluindo a criação de grupos de segurança, instância EC2 e banco de dados RDS PostgreSQL.
 
 Passo a Passo:
